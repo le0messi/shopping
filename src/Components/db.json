@@ -1,0 +1,26 @@
+
+{
+    "products": [
+      {
+        "id":1,
+        "Name": "toys",
+        "Brand": "Kia",
+        "quantity": 6,
+        "Price":500
+      },
+       {
+        "id":2,
+        "Name":"powder",
+        "Brand": "ponds",
+        "quantity":9,
+        "Price":70
+      },
+       {
+        "id":3,
+        "Name":"Bag" ,
+        "Brand": "Puma",
+        "quantity": "10",
+        "Price":2500
+      }
+    ]
+    }
